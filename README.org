@@ -1,0 +1,10 @@
+* binary-types
+
+Read and write binary records for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Ferada/binary-types   |
+| commit  | a17caf8  |
+| systems | binary-types |
+|---------+-------------------------------------------|
+

@@ -2,9 +2,9 @@
 
 Read and write binary records for Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/Ferada/binary-types   |
-| commit  | a17caf8  |
-| systems | binary-types |
-|---------+-------------------------------------------|
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/snunez1/binary-types.git |
+| commit  | e9066e3                                         |
+| systems | binary-types                                    |
+|---------+-------------------------------------------------|
 

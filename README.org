@@ -4,7 +4,7 @@ Read and write binary records for Common Lisp
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/snunez1/binary-types.git |
-| commit  | ea2c984                                         |
+| commit  | 2120db1                                         |
 | systems | binary-types                                    |
 |---------+-------------------------------------------------|
 
